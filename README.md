@@ -57,7 +57,7 @@ Currently focusing on:
 </p>
 ---
 
-# 📌 What I Do
+#  What I Do
 
 ✔️ Build REST APIs
 
@@ -75,7 +75,7 @@ Currently focusing on:
 
 ---
 
-# 🌟 Featured Projects
+#  Featured Projects
 
 ### 💬 Code Whisperer
 
@@ -92,17 +92,7 @@ AI-powered platform that allows developers to chat with GitHub repositories usin
 
 ---
 
-### 🛍️ Perfume Shop
 
-A modern e-commerce web application featuring authentication, shopping cart, product management, and admin dashboard.
-
----
-
-### 📚 Library Management System
-
-A complete CRUD application for managing books, borrowers, and lending operations.
-
----
 
 # 📈 GitHub Stats
 
