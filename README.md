@@ -48,7 +48,7 @@ Currently focusing on:
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,dotnet,cs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel" />
 </p>
 
 ### Databases
